@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750438459515",
+    "project_id": "awesome-ai-9bd66",
+    "storage_bucket": "awesome-ai-9bd66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750438459515:android:0339a1f414f0fa8f6ddade",
+        "android_client_info": {
+          "package_name": "ai.study.learning.virtual.test.tutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750438459515-df97n8mioj34kofjgqsrocaie3i7ppjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.study.learning.virtual.test.tutor",
+            "certificate_hash": "19f89b2d4361986dc7ab6544aacb620f136775ca"
+          }
+        },
+        {
+          "client_id": "750438459515-7rsr98n4dnle0qr0iv2mrfp826kdnen4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfa5NAejM2cTT0sxRhQvf0jYogNYzkVFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750438459515-7rsr98n4dnle0qr0iv2mrfp826kdnen4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
