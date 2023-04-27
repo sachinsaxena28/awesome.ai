@@ -10,7 +10,8 @@ import dagger.android.AndroidInjectionModule
 @Component(
     modules = [
         AndroidInjectionModule::class,
-        EventTrackingModule::class
+        EventTrackingModule::class,
+        BindingActivityModule::class
     ]
 )
 interface AppComponent {
