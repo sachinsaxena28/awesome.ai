@@ -9,6 +9,10 @@ android {
     namespace 'ai.study.learning.virtual.test.tutor'
     compileSdk 33
 
+    viewBinding {
+        enabled = true
+    }
+
     defaultConfig {
         applicationId "ai.study.learning.virtual.test.tutor"
         minSdk 21
