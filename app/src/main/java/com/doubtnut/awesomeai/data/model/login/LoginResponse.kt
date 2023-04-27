@@ -1,4 +1,4 @@
-package com.doubtnut.awesomeai.data.model
+package com.doubtnut.awesomeai.data.model.login
 
 import com.google.errorprone.annotations.Keep
 
