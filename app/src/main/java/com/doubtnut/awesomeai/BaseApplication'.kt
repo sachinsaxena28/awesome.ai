@@ -1,8 +1,8 @@
 package com.doubtnut.awesomeai
 
 import android.app.Application
-import com.doubtnut.awesomeai.di.AppComponent
-import com.doubtnut.awesomeai.di.DaggerAppComponent
+import com.doubtnut.awesomeai.di.component.AppComponent
+import com.doubtnut.awesomeai.di.component.DaggerAppComponent
 
 class BaseApplication : Application() {
 

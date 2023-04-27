@@ -1,4 +1,4 @@
-package com.doubtnut.awesomeai.di
+package com.doubtnut.awesomeai.di.module
 
 import android.app.Application
 import android.content.SharedPreferences
