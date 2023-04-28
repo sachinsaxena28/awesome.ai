@@ -1,4 +1,4 @@
-package com.doubtnut.awesomeai.data.remote.retrofit.interceptor
+package com.doubtnut.awesomeai.util.retrofit.interceptor
 
 import android.content.Context
 import androidx.core.content.edit

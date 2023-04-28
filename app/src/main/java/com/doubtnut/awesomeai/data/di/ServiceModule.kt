@@ -1,6 +1,6 @@
-package com.doubtnut.awesomeai.di.module
+package com.doubtnut.awesomeai.data.di
 
-import com.doubtnut.awesomeai.data.repository.LoginService
+import com.doubtnut.awesomeai.data.repository.service.LoginService
 import dagger.Module
 import dagger.Provides
 import retrofit2.Retrofit

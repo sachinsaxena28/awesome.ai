@@ -3,9 +3,10 @@ package com.doubtnut.awesomeai.di.component
 import android.app.Application
 import com.doubtnut.awesomeai.BaseApplication
 import com.doubtnut.awesomeai.analytics.di.EventTrackingModule
+import com.doubtnut.awesomeai.data.di.RepositoryModule
+import com.doubtnut.awesomeai.data.di.ServiceModule
 import com.doubtnut.awesomeai.di.module.BindingActivityModule
 import com.doubtnut.awesomeai.di.module.NetworkModule
-import com.doubtnut.awesomeai.di.module.ServiceModule
 import com.doubtnut.awesomeai.di.module.ViewModelProviderModule
 import dagger.BindsInstance
 import dagger.Component
@@ -19,7 +20,8 @@ import javax.inject.Singleton
         BindingActivityModule::class,
         ViewModelProviderModule::class,
         NetworkModule::class,
-        ServiceModule::class
+        ServiceModule::class,
+        RepositoryModule::class
     ]
 )
 @Singleton

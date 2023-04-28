@@ -2,9 +2,9 @@ package com.doubtnut.awesomeai.di.module
 
 import ai.study.learning.virtual.test.tutor.BuildConfig
 import android.content.Context
-import com.doubtnut.awesomeai.data.remote.retrofit.interceptor.FakeInterceptor
-import com.doubtnut.awesomeai.data.remote.retrofit.NetworkBuilderFactory
-import com.doubtnut.awesomeai.data.remote.retrofit.interceptor.RefreshTokenInterceptor
+import com.doubtnut.awesomeai.util.retrofit.NetworkBuilderFactory
+import com.doubtnut.awesomeai.util.retrofit.interceptor.FakeInterceptor
+import com.doubtnut.awesomeai.util.retrofit.interceptor.RefreshTokenInterceptor
 import com.doubtnut.awesomeai.di.qualifier.ApplicationContext
 import dagger.Module
 import dagger.Provides

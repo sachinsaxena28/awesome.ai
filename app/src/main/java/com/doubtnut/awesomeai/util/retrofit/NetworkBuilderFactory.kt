@@ -1,4 +1,4 @@
-package com.doubtnut.awesomeai.data.remote.retrofit
+package com.doubtnut.awesomeai.util.retrofit
 
 import okhttp3.OkHttpClient
 import javax.inject.Singleton

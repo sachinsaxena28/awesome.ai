@@ -1,7 +1,7 @@
-package com.doubtnut.awesomeai.data.repository
+package com.doubtnut.awesomeai.data.repository.service
 
-import com.doubtnut.awesomeai.data.remote.model.login.LoginRequest
-import com.doubtnut.awesomeai.data.remote.model.login.LoginResponse
+import com.doubtnut.awesomeai.data.model.login.LoginRequest
+import com.doubtnut.awesomeai.data.model.login.LoginResponse
 import com.doubtnut.awesomeai.data.remote.CoreResponse
 import retrofit2.http.Body
 import retrofit2.http.POST

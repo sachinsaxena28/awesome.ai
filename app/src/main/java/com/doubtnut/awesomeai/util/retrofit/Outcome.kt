@@ -1,4 +1,4 @@
-package com.doubtnut.awesomeai.data.remote
+package com.doubtnut.awesomeai.util.retrofit
 
 sealed class Outcome<T> {
 

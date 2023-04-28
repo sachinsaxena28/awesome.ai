@@ -1,4 +1,4 @@
-package com.doubtnut.awesomeai.data.remote.retrofit.interceptor
+package com.doubtnut.awesomeai.util.retrofit.interceptor
 
 import ai.study.learning.virtual.test.tutor.R
 import android.content.Context
